@@ -102,9 +102,11 @@
     height: auto;
     background: none;
   }
+
   .header__nav {
     background: var(--bg);
   }
+
   .header__wrap {
     flex-wrap: nowrap;
     flex-direction: column;
